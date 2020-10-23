@@ -1,3 +1,4 @@
+import "./styles.css";
 import menu from './menu.json';
 import menuTemplate from './templates/food-item.hbs';
 
