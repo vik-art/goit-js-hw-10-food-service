@@ -31,7 +31,7 @@ function setDarkTheme () {
     localStorage.setItem("theme", Theme.DARK);
 }
 function setLightTheme () {
-    body.classList.add(Theme.LIGTH);
+    body.classList.add(Theme.LIGHT);
     body.classList.remove(Theme.DARK);
     localStorage.setItem("theme", Theme.LIGHT);
 }
